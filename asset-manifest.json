@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/funesaaron97.github.io/price_monitor/static/css/main.bb2794ac.css",
-    "main.js": "/funesaaron97.github.io/price_monitor/static/js/main.22636ac5.js",
-    "static/js/787.38fdcc27.chunk.js": "/funesaaron97.github.io/price_monitor/static/js/787.38fdcc27.chunk.js",
-    "index.html": "/funesaaron97.github.io/price_monitor/index.html",
-    "main.bb2794ac.css.map": "/funesaaron97.github.io/price_monitor/static/css/main.bb2794ac.css.map",
-    "main.22636ac5.js.map": "/funesaaron97.github.io/price_monitor/static/js/main.22636ac5.js.map",
-    "787.38fdcc27.chunk.js.map": "/funesaaron97.github.io/price_monitor/static/js/787.38fdcc27.chunk.js.map"
+    "main.css": "/price_monitor/static/css/main.bb2794ac.css",
+    "main.js": "/price_monitor/static/js/main.58c1c999.js",
+    "static/js/787.38fdcc27.chunk.js": "/price_monitor/static/js/787.38fdcc27.chunk.js",
+    "index.html": "/price_monitor/index.html",
+    "main.bb2794ac.css.map": "/price_monitor/static/css/main.bb2794ac.css.map",
+    "main.58c1c999.js.map": "/price_monitor/static/js/main.58c1c999.js.map",
+    "787.38fdcc27.chunk.js.map": "/price_monitor/static/js/787.38fdcc27.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb2794ac.css",
-    "static/js/main.22636ac5.js"
+    "static/js/main.58c1c999.js"
   ]
 }
