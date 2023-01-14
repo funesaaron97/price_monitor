@@ -7,7 +7,7 @@
 .coin-app{
   justify-content: flex;
   text-align: center;
-  background-color: #878787 ;
+  background-color: #39393e ;
   color: white;
 }
 
@@ -31,5 +31,14 @@
 
 .pic{
   border-style: solid;
-  border-color: white ;
+  border-color: transparent;
+  align-items: center;
+  margin-top: 10%;
+}
+
+.coin-container{
+  background-color: #424549;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border: solid white;
 }
