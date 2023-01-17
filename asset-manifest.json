@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/price_monitor/static/css/main.051ddd61.css",
-    "main.js": "/price_monitor/static/js/main.58c1c999.js",
+    "main.css": "/price_monitor/static/css/main.f28e5fbc.css",
+    "main.js": "/price_monitor/static/js/main.61a80ff3.js",
     "static/js/787.38fdcc27.chunk.js": "/price_monitor/static/js/787.38fdcc27.chunk.js",
     "index.html": "/price_monitor/index.html",
-    "main.051ddd61.css.map": "/price_monitor/static/css/main.051ddd61.css.map",
-    "main.58c1c999.js.map": "/price_monitor/static/js/main.58c1c999.js.map",
+    "main.f28e5fbc.css.map": "/price_monitor/static/css/main.f28e5fbc.css.map",
+    "main.61a80ff3.js.map": "/price_monitor/static/js/main.61a80ff3.js.map",
     "787.38fdcc27.chunk.js.map": "/price_monitor/static/js/787.38fdcc27.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.051ddd61.css",
-    "static/js/main.58c1c999.js"
+    "static/css/main.f28e5fbc.css",
+    "static/js/main.61a80ff3.js"
   ]
 }
