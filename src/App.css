@@ -1,18 +1,17 @@
-.homepage{
-  justify-content: flex;
-  align-items: center;
-  text-align: center;
-}
+
+
 
 .coin-app{
-  justify-content: flex;
   text-align: center;
   background-color: #39393e ;
   color: white;
+  min-height: 100vh;
 }
 
 .coin-search{
-
+  font-family: Trebuchet MS, sans-serif ;
+  padding-bottom: 5%;
+  padding-top: 5%;
 }
 
 .coin-data{
@@ -32,13 +31,20 @@
 .pic{
   border-style: solid;
   border-color: transparent;
-  align-items: center;
   margin-top: 10%;
 }
 
 .coin-container{
   background-color: #424549;
-  margin-top: 5%;
-  margin-bottom: 5%;
+  padding-top: 5%;
   border: solid white;
+  margin-top: 2.5%;
+}
+
+.coin-percent-red{
+  color: red;
+}
+
+.coin-percent-green{
+  color:green;
 }
